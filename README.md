@@ -1,1 +1,2 @@
-# barkanyildirim
+# Barkan YILDIRIM | FMV IŞIK ÜNİVERSİTESİ BİTİRME PROJESİ
+Bu projeyi özetleyecek olursak, temel amacı kripto borsasını bilen veya bilmeyip henüz öğrenmeye çalışan kullanıcılara, bu borsada zarara uğramadan gerçeğine en yakın gelecek tahminlerini sunarak ticaret yapabilmelerini sağlamaktır. Projede kullanılan 3 farklı makine öğrenmesi güncel kripto paralar ile bütünleşmiş çalışıp en verimli gelecek verilerini kullanıcıya sunabilmektedir.
